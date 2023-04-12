@@ -6,11 +6,12 @@ Here you can find much of the work I do in my free time. Outside of GitHub, I am
 * ⚡ Recent/current projects I'm happy with:
   * My study association's [app](https://github.com/hoco-etv/flutter-etv-app), my first Flutter project, and its [website](https://etv.tudelft.nl)+API
   * The [MCH2022 badge project](https://github.com/badgeteam/mch2022-project)
+    * A WebUSB [Client Library](https://github.com/badgeteam/mch2022-webusb-lib) for the MCH2022 badge
+    * A [WebIDE](https://github.com/badgeteam/mch2022-webusb-site) for the MCH2022 badge using WebUSB
   * [Leakbook](https://github.com/Pwuts/leakbook) ([website](https://facebooklekcheck.nl)), a fun project I did to learn Deno
   * [Techtesters.eu](https://techtesters.eu), for which I did a UI redesign and the implementation in Wordpress
 * 🚧 Projects I would like to spend more time on:
   * [RecordJuggler](https://github.com/RecordJuggler), a project with friends to build a jukebox from scratch
-  * A WebIDE with WebUSB/WebSerial integration for the MCH2022 badge
   * My portfolio website
 
 ### Some quick stats
