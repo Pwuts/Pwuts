@@ -5,7 +5,7 @@ Here you can find much of the work I do in my free time. Outside of GitHub, I am
 * 🛠️ I'm also comfortable working with Docker, GitHub Workflows, Deno, Vue/Nuxt, PlatformIO, C, C++, VHDL, Python, and in both backend and frontend development
 * ⚡ Recent/current projects I'm happy with:
   * My study association's [app](https://github.com/hoco-etv/flutter-etv-app), my first Flutter project, and its [website](https://etv.tudelft.nl)+API
-  * The [MCH2022 badge](https://badge.team/docs/badges/mch2022/)
+  * The [MCH2022 badge project](https://github.com/badgeteam/mch2022-project)
   * [Leakbook](https://github.com/Pwuts/leakbook) ([website](https://facebooklekcheck.nl)), a fun project I did to learn Deno
   * [Techtesters.eu](https://techtesters.eu), for which I did a UI redesign and the implementation in Wordpress
 * 🚧 Projects I would like to spend more time on:
