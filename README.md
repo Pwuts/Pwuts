@@ -6,7 +6,7 @@ Here you can find much of the work I do professionally as well as past hobby/com
 * 🔭 I have worked on projects in TypeScript, Go, Python, Dart/Flutter, PHP/Yii, Bash
 * 🛠️ I'm also comfortable working with Docker, GitHub Workflows, Deno, Vue/Nuxt, PlatformIO, C, C++, VHDL, and in both backend and frontend development
 * ⚡ Current and recent projects I'm happy with:
-  * **🤖 [AutoGPT],** an open-source venture to harness the power of to build various kinds of AI-powered agents
+  * **🤖 [AutoGPT],** an open-source venture to build various kinds of AI-powered agents and harness the power of AI
   * My study association's [app](https://github.com/hoco-etv/flutter-etv-app), my first Flutter project, and its [website](https://etv.tudelft.nl)+API
   * The [MCH2022 badge project](https://github.com/badgeteam/mch2022-project)
     * A WebUSB [Client Library](https://github.com/badgeteam/mch2022-webusb-lib) for the MCH2022 badge
